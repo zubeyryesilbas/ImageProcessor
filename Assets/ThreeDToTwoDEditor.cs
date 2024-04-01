@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.Animations;
-using PixerEditor;
+using PixelMagicEditor;
 
 public class ThreeDToTwoDEditor : EditorWindow
 {
